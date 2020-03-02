@@ -1,2 +1,2 @@
 # Needleman-Wunsch_Algorithm
-MATLAB implementation of the Needleman-Wunsch Algorithm
+This is a MATLAB implementation of the Needleman-Wunsch Algorithm used for optimal alignment in bioinformatics. This implementation uses dynamic, iterative matrix allocation.
